@@ -3,7 +3,13 @@ body, html {
   height: 100%;
   color: #777;
   line-height: 1.8;
+  background-color: #dcf4f5;
 }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
 
 /* Create a Parallax Effect */
 .bgimg-1, .bgimg-2, .bgimg-3 {
@@ -15,7 +21,7 @@ body, html {
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-  background-image: url('https://georgiafbla.org/wp-content/uploads/2015/06/image001.jpg');
+  background-image: url('https://i.ibb.co/RTLnx6Y/Untitled-design-17.png');
   min-height: 100%;
 }
 
@@ -41,3 +47,4 @@ body, html {
     min-height: 400px;
   }
 }
+
